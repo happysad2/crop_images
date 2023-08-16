@@ -10,7 +10,7 @@ from pathlib import Path
 
 Image.MAX_IMAGE_PIXELS = None
 
-input_dir = "/Users/jackperry/Desktop/ART PACKs/Playtime Barbie Themed Pack 1 - Set 6"
+input_dir = "path"
 
 start_time = time.time()
 
